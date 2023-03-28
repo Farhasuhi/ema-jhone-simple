@@ -1,0 +1,77 @@
+.cart {
+    background-color: rgba(255, 153, 0, 0.3);
+    height: 944px;
+    padding-left: 23px;
+    padding-top: 28px;
+    position: sticky;
+    top: 0;
+}
+
+.cart p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+
+    color: #2A414F;
+}
+
+.cart h5 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+
+
+    color: #1C2B35;
+}
+
+.cart h6 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+
+    color: #0E161A;
+}
+
+.btn-clear {
+    border: none;
+    background: #FF3030;
+    border-radius: 4px;
+    width: 232px;
+    height: 48px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+
+
+    letter-spacing: 0.005em;
+
+    color: #FFFFFF;
+}
+.btn-review{
+    border: none;
+    margin-top: 10px;
+    background: #FF9900;
+    border-radius: 4px;
+    width: 232px;
+    height: 48px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+
+
+    letter-spacing: 0.005em;
+
+    color: #FFFFFF;
+}
