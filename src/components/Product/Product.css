@@ -30,10 +30,13 @@
     width: 300px;
     height: 48px;
     position: absolute;
-    top:466px;
+    bottom: 0;
     background: #FFE0B3;
     border: 1px solid #95A0A7;
     border-radius: 0px 0px 8px 8px;
+}
+.btn:hover{
+    background-color: orange;
 }
 
 
