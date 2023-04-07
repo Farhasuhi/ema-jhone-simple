@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTrash ,faArrowRight} from '@fortawesome/free-solid-svg-icons'
 const Cart = (props) => {
     const {cart}=props;
-    console.log('cart',cart)
+    // console.log('cart',cart)
     let total=0;
     let shippingTotal=0;
     let quantity=0;
