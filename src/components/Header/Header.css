@@ -19,6 +19,12 @@
     font-weight: 400;
     font-size: 17px;
 }
+.text-white{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 17px;
+    padding-left: 5px;
+}
 .menu a:hover{
     color:orange;
 }
